@@ -31,6 +31,16 @@ class TelaLogin : AppCompatActivity() {
         }
     }
 
+/*
+    override fun onStart() {
+        super.onStart()
+        val usuarioatual = FirebaseAuth.getInstance().currentUser
+        if (usuarioatual != null){
+            Troca_de_Tela(MenuPrincipal::class.java)
+        }
+    }
+*/
+
     private fun login(view: View){
         val email = binding.EditUsuario.text.toString()
         val senha = binding.EditSenha.text.toString()

@@ -61,6 +61,7 @@
         android:layout_height="wrap_content"
         android:hint="@string/DatadeNascimento"
         android:layout_marginTop="10dp"
+        android:inputType="date"
         android:layout_marginHorizontal="15dp"
         android:background="@drawable/backgroud_edit_text"
         android:padding="12dp"

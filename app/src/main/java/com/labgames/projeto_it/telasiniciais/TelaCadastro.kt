@@ -85,10 +85,10 @@ class TelaCadastro : AppCompatActivity() {
     private fun SalvarInfoUsuarios(nome: String, email: String, telefone: String, escolhaUsuario: String){
         val usuarioatual = auth.currentUser?.uid.toString()
         val dadousuario = hashMapOf(
-            "Nome do Responsável" to nome,
-            "E-mail" to email,
-            "Telefone do Responsável" to telefone,
-            "Perfil do Responsável" to escolhaUsuario
+            "responsavel" to nome,
+            "email" to email,
+            "telresponsavel" to telefone,
+            "perfilresponsavel do Responsável" to escolhaUsuario
         )
             BD.collection("InfoUsuarios").document(usuarioatual).set(dadousuario)
     }
