@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Projeto_IT</string>
+    <string name="TitleProject">APRENDENDO A ESTIMULAR A CRIANÇA COM TEA</string>
+    <string name="BemVindo">Bem Vindo!</string>
+    <string name="nome">Nome Completo</string>
+    <string name="Login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="Senha">Senha</string>
+    <string name="esqueceuSenha">Esqueceu a senha? Clique aqui!</string>
+    <string name="RealizarLogin">Entrar</string>
+    <string name="SemCadastro">Você ainda não se cadastrou?</string>
+    <string name="NovoCadastro">Novo Cadastro</string>
+    <string name="escolha_adq">Selecione a opção que melhor descreve você:</string>
+    <string name="DatadeNascimento">Data de nascimento</string>
+    <string name="GeneroCriançaTxt">Qual gênero da criança:</string>
+    <string name="Pai">Pai</string>
+    <string name="Mae">Mae</string>
+    <string name="AreaSaude">Área da saúde</string>
+    <string name="Menino">Menino</string>
+    <string name="Menina">Menina</string>
+    <string name="EfetuarCadastro">Efetuar Cadastro!</string>
+    <string name="Prosseguir">Prosseguir</string>
+    <string name="CadastroResponsável">Cadastro: Responsável</string>
+</resources>

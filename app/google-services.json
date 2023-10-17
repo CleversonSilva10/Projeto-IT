@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909652067485",
+    "project_id": "projeto-it",
+    "storage_bucket": "projeto-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909652067485:android:5446dfa3caf5d8c0414074",
+        "android_client_info": {
+          "package_name": "com.labgames.projeto_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMCn3W1D4kHaHej-pPDESFiqwuOYRqJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
