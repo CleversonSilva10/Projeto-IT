@@ -24,7 +24,6 @@
         android:textColor="@color/yellow"
         android:layout_marginTop="20dp"
         android:textAlignment="center"
-        android:textStyle="italic"
         android:fontFamily="sans-serif-black"
         android:textSize="25sp"
         app:layout_constraintStart_toStartOf="parent"
